@@ -1,0 +1,92 @@
+{
+    "Content Model": [{
+        "name": "Schneider_Electric_Herobanner",
+        "description": "Schneider_Electric_Herobanner",
+        "displayField": "header",
+        "fields": [{
+                "id": "hero_image",
+                "name": "Hero Banner",
+                "type": "Text"
+            },
+            {
+                "id": "header",
+                "name": "Header",
+                "type": "Symbol"
+            },
+            {
+                "id": "cta_field",
+                "name": "CTA Field",
+                "type": "Symbol"
+            },
+            {
+                "id": "cta_link",
+                "name": "CTA Link",
+                "type": "Text"
+            }, {
+                "id": "short_description",
+                "name": "Short Description",
+                "type": "Text"
+            }
+        ]
+    }, {
+        "name": "Schneider_Electric_Quicklinks",
+        "description": "Schneider_Electric_Quicklinks",
+        "displayField": "cta_field",
+        "fields": [{
+            "id": "cta_field",
+            "name": "CTA Field",
+            "type": "Symbol"
+        }, {
+            "id": "cta_link",
+            "name": "CTA Link",
+            "type": "Text"
+        }]
+    }, {
+        "name": "Schneider_Electric_Footer",
+        "description": "Schneider_Electric_Footer",
+        "displayField": "cta_field",
+        "fields": [{
+            "id": "cta_field",
+            "name": "CTA Field",
+            "type": "Symbol"
+        }, {
+            "id": "cta_link",
+            "name": "CTA Link",
+            "type": "Text"
+        }, {
+            "id": "cta_category",
+            "name": "CTA Category",
+            "type": "Symbol"
+        }]
+    }, {
+        "name": "Schneider_Electric_Tiles",
+        "description": "Schneider_Electric_Tiles",
+        "displayField": "header",
+        "fields": [{
+                "id": "tile_image",
+                "name": "Tile Image",
+                "type": "Symbol",
+                "required": true
+            },
+            {
+                "id": "description",
+                "name": "Tile Description",
+                "type": "Text"
+            },
+            {
+                "id": "header",
+                "name": "Tile Header",
+                "type": "Symbol"
+            },
+            {
+                "id": "cta_label",
+                "name": "Tile Label",
+                "type": "Symbol"
+            }, {
+                "id": "cta_link",
+                "name": "Tile Link",
+                "type": "Symbol"
+            }
+        ]
+    }]
+}

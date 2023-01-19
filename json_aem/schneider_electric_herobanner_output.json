@@ -1,0 +1,147 @@
+{
+    "Content_Fragment": [{
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricherobanner",
+                "name": "hero-banner-1",
+                "description": "hero-banner-1",
+                "elements": {
+                    "short_description": {
+                        "title": "Short Description",
+                        "value": "Sharing can make all the difference. Share our e-card to have 1 € donated to mentoring initiatives."
+                    },
+                    "header": {
+                        "title": "Header",
+                        "value": "Season for sharing 2023"
+                    },
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n Share opens in new window \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://seasonsgreetings.se.com/"
+                    },
+                    "hero_image": {
+                        "title": "Hero Banner",
+                        "value": "https://www.se.com/in/en/assets/380/media/368767/320/998-22269626_GreetingCardIdeation2022-IC-2400x706.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricherobanner",
+                "name": "hero-banner-2",
+                "description": "hero-banner-2",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n  Know more \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/work/campaign/sustainability-impact-awards/"
+                    },
+                    "header": {
+                        "title": "Header",
+                        "value": "Schneider Electric: Calling all partners!"
+                    },
+                    "short_description": {
+                        "title": "Short Description",
+                        "value": "Do you share our passion for decarbonisation? Are you taking action to make the most of your energy and resources? If so, get started on your Sustainable Impact Awards entry now."
+                    },
+                    "hero_image": {
+                        "title": "Hero Banner",
+                        "value": "https://www.se.com/in/en/assets/380/media/363076/320/Sustainability_Impact_Award-Banner-02-IC-2400x706.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricherobanner",
+                "name": "hero-banner-3",
+                "description": "hero-banner-3",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n  Learn more \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/about-us/events/innovation-summit-world-tour.jsp"
+                    },
+                    "short_description": {
+                        "title": "Short Description",
+                        "value": "Join us for our virtual Global Keynote and Innovation Talks as we explore how software and technologies are making the digital, electric world a reality."
+                    },
+                    "header": {
+                        "title": "Header",
+                        "value": "Schneider Electric: Innovation Summit World Tour 2022"
+                    },
+                    "hero_image": {
+                        "title": "Hero Banner",
+                        "value": "https://www.se.com/in/en/assets/380/media/345054/320/998-22095662_Innovation-Summit-World-Tour-2022_GMA_KV-IC-2400x706.jpg"
+                    }
+                }
+            }
+        },
+        {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricherobanner",
+                "name": "hero-banner-4",
+                "description": "hero-banner-4",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n Green Yodha Partners opens in new window \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/work/campaign/local/green-yodha.jsp#MeetourGreenYodhaPartners"
+                    },
+                    "header": {
+                        "title": "Header",
+                        "value": "The planet needs heroes like you right now"
+                    },
+                    "short_description": {
+                        "title": "Short Description",
+                        "value": "Join the good fight. Become a Green Yodha."
+                    },
+                    "hero_image": {
+                        "title": "Hero Banner",
+                        "value": "https://www.se.com/in/en/assets/380/media/236314/1200/962629750-no-logo-IC-2400x706.jpg"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricherobanner",
+                "name": "hero-banner-5",
+                "description": "hero-banner-5",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n Know more! opens in new window \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.greenext.com/"
+                    },
+                    "short_description": {
+                        "title": "Short Description",
+                        "value": "Enabling future grids to become decentralized, decarbonized, and independent through microgrids."
+                    },
+                    "header": {
+                        "title": "Header",
+                        "value": "Get access to a resilient energy supply powered by renewable energy"
+                    },
+                    "hero_image": {
+                        "title": "Hero Banner",
+                        "value": "https://www.se.com/in/en/assets/380/media/341265/1200/GreeNext_with_Logo_IN_IC-2400x706.jpg"
+                    }
+                }
+            }
+        }
+    ]
+}

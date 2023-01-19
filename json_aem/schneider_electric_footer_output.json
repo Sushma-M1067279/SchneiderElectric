@@ -1,0 +1,1027 @@
+{
+    "Content_Fragment": [{
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricfooter",
+                "name": "footer-links-1",
+                "description": "footer-links-1",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n All Products \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/all-products"
+                    },
+                    "cta_category": {
+                        "title": "CTA Category",
+                        "value": "QUICK LINKS"
+                    }
+                }
+            }
+        },
+        {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricfooter",
+                "name": "footer-links-10",
+                "description": "footer-links-10",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n Register Your Product \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/work/services/register-your-product/"
+                    },
+                    "cta_category": {
+                        "title": "CTA Category",
+                        "value": "QUICK LINKS"
+                    }
+                }
+            }
+        },
+        {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricfooter",
+                "name": "footer-links-11",
+                "description": "footer-links-11",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n Accessibility \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/about-us/accessibility/"
+                    },
+                    "cta_category": {
+                        "title": "CTA Category",
+                        "value": "ABOUT US"
+                    }
+                }
+            }
+        },
+        {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricfooter",
+                "name": "footer-links-12",
+                "description": "footer-links-12",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n Data Privacy and Cookie Policy \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/about-us/legal/data-privacy.jsp"
+                    },
+                    "cta_category": {
+                        "title": "CTA Category",
+                        "value": "ABOUT US"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricfooter",
+                "name": "footer-links-13",
+                "description": "footer-links-13",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n Diversity \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/about-us/diversity-and-inclusion/"
+                    },
+                    "cta_category": {
+                        "title": "CTA Category",
+                        "value": "ABOUT US"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricfooter",
+                "name": "footer-links-14",
+                "description": "footer-links-14",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n Company Profile \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/about-us/company-profile/"
+                    },
+                    "cta_category": {
+                        "title": "CTA Category",
+                        "value": "ABOUT US"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricfooter",
+                "name": "footer-links-15",
+                "description": "footer-links-15",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n Careers \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/about-us/careers/overview.jsp"
+                    },
+                    "cta_category": {
+                        "title": "CTA Category",
+                        "value": "ABOUT US"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricfooter",
+                "name": "footer-links-16",
+                "description": "footer-links-16",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n Newsroom \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/about-us/newsroom/"
+                    },
+                    "cta_category": {
+                        "title": "CTA Category",
+                        "value": "ABOUT US"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricfooter",
+                "name": "footer-links-17",
+                "description": "footer-links-17",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n Sustainability \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/about-us/sustainability/"
+                    },
+                    "cta_category": {
+                        "title": "CTA Category",
+                        "value": "ABOUT US"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricfooter",
+                "name": "footer-links-18",
+                "description": "footer-links-18",
+                "elements": {
+                    "cta_category": {
+                        "title": "CTA Category",
+                        "value": "SERVICES"
+                    },
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n Consulting and Training \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/work/services/consulting-and-training/"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricfooter",
+                "name": "footer-links-19",
+                "description": "footer-links-19",
+                "elements": {
+                    "cta_category": {
+                        "title": "CTA Category",
+                        "value": "SERVICES"
+                    },
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n Digital Services \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/work/services/digital-services/"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricfooter",
+                "name": "footer-links-2",
+                "description": "footer-links-2",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n Solutions \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/work/solutions/"
+                    },
+                    "cta_category": {
+                        "title": "CTA Category",
+                        "value": "QUICK LINKS"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricfooter",
+                "name": "footer-links-20",
+                "description": "footer-links-20",
+                "elements": {
+                    "cta_category": {
+                        "title": "CTA Category",
+                        "value": "SERVICES"
+                    },
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n Field Services \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/work/services/field-services/"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricfooter",
+                "name": "footer-links-21",
+                "description": "footer-links-21",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n Industrial Automation Software \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/product-category/5100-industrial-automation-software/?filter=business-1-industrial-automation-and-control"
+                    },
+                    "cta_category": {
+                        "title": "CTA Category",
+                        "value": "SOFTWARE"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricfooter",
+                "name": "footer-links-22",
+                "description": "footer-links-22",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n Energy Management Software \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/product-category/26426075-energy-management-software-solutions/?filter=business-4-low-voltage-products-and-systems"
+                    },
+                    "cta_category": {
+                        "title": "CTA Category",
+                        "value": "SOFTWARE"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricfooter",
+                "name": "footer-links-23",
+                "description": "footer-links-23",
+                "elements": {
+                    "cta_category": {
+                        "title": "CTA Category",
+                        "value": "SOFTWARE"
+                    },
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n Data Centre Software \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/product-category/88438-data-center-software/?filter=business-3-critical-power-cooling-and-racks"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricfooter",
+                "name": "footer-links-24",
+                "description": "footer-links-24",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n Motor Management \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/work/solutions/motor-control-protection/"
+                    },
+                    "cta_category": {
+                        "title": "CTA Category",
+                        "value": "SOLUTIONS"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricfooter",
+                "name": "footer-links-25",
+                "description": "footer-links-25",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n Power and Grid \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/work/solutions/for-business/electric-utilities/"
+                    },
+                    "cta_category": {
+                        "title": "CTA Category",
+                        "value": "SOLUTIONS"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricfooter",
+                "name": "footer-links-26",
+                "description": "footer-links-26",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n Retail \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/work/solutions/for-business/retail/"
+                    },
+                    "cta_category": {
+                        "title": "CTA Category",
+                        "value": "SOLUTIONS"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricfooter",
+                "name": "footer-links-27",
+                "description": "footer-links-27",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n Transportation \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/work/solutions/for-business/transportation/"
+                    },
+                    "cta_category": {
+                        "title": "CTA Category",
+                        "value": "SOLUTIONS"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricfooter",
+                "name": "footer-links-28",
+                "description": "footer-links-28",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n Mining, Minerals and Metals \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/work/solutions/for-business/mining-minerals-metals/"
+                    },
+                    "cta_category": {
+                        "title": "CTA Category",
+                        "value": "SOLUTIONS"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricfooter",
+                "name": "footer-links-29",
+                "description": "footer-links-29",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n Water and Wastewater \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/work/solutions/for-business/water/"
+                    },
+                    "cta_category": {
+                        "title": "CTA Category",
+                        "value": "SOLUTIONS"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricfooter",
+                "name": "footer-links-3",
+                "description": "footer-links-3",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n Software \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/work/solutions/software/"
+                    },
+                    "cta_category": {
+                        "title": "CTA Category",
+                        "value": "QUICK LINKS"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricfooter",
+                "name": "footer-links-30",
+                "description": "footer-links-30",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n Marine \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/work/solutions/for-business/marine/"
+                    },
+                    "cta_category": {
+                        "title": "CTA Category",
+                        "value": "SOLUTIONS"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricfooter",
+                "name": "footer-links-31",
+                "description": "footer-links-31",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n Commercial Real Estate \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/work/solutions/for-business/real-estate/"
+                    },
+                    "cta_category": {
+                        "title": "CTA Category",
+                        "value": "SOLUTIONS"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricfooter",
+                "name": "footer-links-32",
+                "description": "footer-links-32",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n Data Centre and Network Solutions \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/work/solutions/for-business/data-centers-and-networks/"
+                    },
+                    "cta_category": {
+                        "title": "CTA Category",
+                        "value": "SOLUTIONS"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricfooter",
+                "name": "footer-links-33",
+                "description": "footer-links-33",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n Energies and Chemicals \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/work/solutions/for-business/energies-and-chemicals/"
+                    },
+                    "cta_category": {
+                        "title": "CTA Category",
+                        "value": "SOLUTIONS"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricfooter",
+                "name": "footer-links-34",
+                "description": "footer-links-34",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n Food and Beverage \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/work/solutions/for-business/food-and-beverage/"
+                    },
+                    "cta_category": {
+                        "title": "CTA Category",
+                        "value": "SOLUTIONS"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricfooter",
+                "name": "footer-links-35",
+                "description": "footer-links-35",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n Healthcare \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/work/solutions/for-business/healthcare/"
+                    },
+                    "cta_category": {
+                        "title": "CTA Category",
+                        "value": "SOLUTIONS"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricfooter",
+                "name": "footer-links-36",
+                "description": "footer-links-36",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n Hotels \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/work/solutions/for-business/hotels/"
+                    },
+                    "cta_category": {
+                        "title": "CTA Category",
+                        "value": "SOLUTIONS"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricfooter",
+                "name": "footer-links-37",
+                "description": "footer-links-37",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n Life Sciences \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/work/solutions/for-business/life-sciences/"
+                    },
+                    "cta_category": {
+                        "title": "CTA Category",
+                        "value": "SOLUTIONS"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricfooter",
+                "name": "footer-links-38",
+                "description": "footer-links-38",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n Machinery \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/work/solutions/machine-control/"
+                    },
+                    "cta_category": {
+                        "title": "CTA Category",
+                        "value": "SOLUTIONS"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricfooter",
+                "name": "footer-links-39",
+                "description": "footer-links-39",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n Cloud and Service Providers \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/work/solutions/for-business/cloud-and-service-providers/"
+                    },
+                    "cta_category": {
+                        "title": "CTA Category",
+                        "value": "SOLUTIONS"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricfooter",
+                "name": "footer-links-4",
+                "description": "footer-links-4",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n + LifeCycle Services \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/work/services/"
+                    },
+                    "cta_category": {
+                        "title": "CTA Category",
+                        "value": "QUICK LINKS"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricfooter",
+                "name": "footer-links-40",
+                "description": "footer-links-40",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n Automotive and eMobility \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/work/solutions/for-business/automotive-and-emobility/"
+                    },
+                    "cta_category": {
+                        "title": "CTA Category",
+                        "value": "SOLUTIONS"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricfooter",
+                "name": "footer-links-41",
+                "description": "footer-links-41",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n Need help? Start here \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/work/support/"
+                    },
+                    "cta_category": {
+                        "title": "CTA Category",
+                        "value": "SUPPORT"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricfooter",
+                "name": "footer-links-42",
+                "description": "footer-links-42",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n Product Selector \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/work/support/product-selector/"
+                    },
+                    "cta_category": {
+                        "title": "CTA Category",
+                        "value": "SUPPORT"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricfooter",
+                "name": "footer-links-43",
+                "description": "footer-links-43",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n Product Documentation and Software Downloads \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/download/"
+                    },
+                    "cta_category": {
+                        "title": "CTA Category",
+                        "value": "SUPPORT"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricfooter",
+                "name": "footer-links-44",
+                "description": "footer-links-44",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n Browse FAQ \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/faqs/home/"
+                    },
+                    "cta_category": {
+                        "title": "CTA Category",
+                        "value": "SUPPORT"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricfooter",
+                "name": "footer-links-45",
+                "description": "footer-links-45",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n Green Premium: RoHS, REACH \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/work/support/green-premium/"
+                    },
+                    "cta_category": {
+                        "title": "CTA Category",
+                        "value": "SUPPORT"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricfooter",
+                "name": "footer-links-46",
+                "description": "footer-links-46",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n Contact Centre \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/work/support/contacts.jsp"
+                    },
+                    "cta_category": {
+                        "title": "CTA Category",
+                        "value": "CONTACT"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricfooter",
+                "name": "footer-links-47",
+                "description": "footer-links-47",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n Contact Support \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/work/support/customer-care/contact-schneider-electric.jsp"
+                    },
+                    "cta_category": {
+                        "title": "CTA Category",
+                        "value": "CONTACT"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricfooter",
+                "name": "footer-links-48",
+                "description": "footer-links-48",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n Get a Quote \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/work/support/customer-care/contact-sales.jsp"
+                    },
+                    "cta_category": {
+                        "title": "CTA Category",
+                        "value": "CONTACT"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricfooter",
+                "name": "footer-links-49",
+                "description": "footer-links-49",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n Where to Buy? \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/locate/80-partner-locator-distributors"
+                    },
+                    "cta_category": {
+                        "title": "CTA Category",
+                        "value": "CONTACT"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricfooter",
+                "name": "footer-links-5",
+                "description": "footer-links-5",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n Partners \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/partners/"
+                    },
+                    "cta_category": {
+                        "title": "CTA Category",
+                        "value": "QUICK LINKS"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricfooter",
+                "name": "footer-links-50",
+                "description": "footer-links-50",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n Find Schneider Electric Offices opens in new window \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/ww/en/locate/395-schneider-electric-offices-around-the-world"
+                    },
+                    "cta_category": {
+                        "title": "CTA Category",
+                        "value": "CONTACT"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricfooter",
+                "name": "footer-links-51",
+                "description": "footer-links-51",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n Find a Training Centre opens in new window \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/ww/en/locate/396-find-your-training-center"
+                    },
+                    "cta_category": {
+                        "title": "CTA Category",
+                        "value": "CONTACT"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricfooter",
+                "name": "footer-links-6",
+                "description": "footer-links-6",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n EcoStruxure \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/work/campaign/innovation/overview.jsp"
+                    },
+                    "cta_category": {
+                        "title": "CTA Category",
+                        "value": "QUICK LINKS"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricfooter",
+                "name": "footer-links-7",
+                "description": "footer-links-7",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n Customer Success Stories \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/work/campaign/life-is-on/life-is-on.jsp"
+                    },
+                    "cta_category": {
+                        "title": "CTA Category",
+                        "value": "QUICK LINKS"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricfooter",
+                "name": "footer-links-8",
+                "description": "footer-links-8",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n Job Search opens in new window \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://schneiderele.taleo.net/careersection/2/jobsearch.ftl?lang=en&keyword=&CATEGORY=-1&LOCATION=-1"
+                    },
+                    "cta_category": {
+                        "title": "CTA Category",
+                        "value": "QUICK LINKS"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricfooter",
+                "name": "footer-links-9",
+                "description": "footer-links-9",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "\n Blog opens in new window \n "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://blog.se.com/"
+                    },
+                    "cta_category": {
+                        "title": "CTA Category",
+                        "value": "QUICK LINKS"
+                    }
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "Entries": [{
+            "content_type_id": "Schneider_Electric_Tiles",
+            "entry_id": "tiles-1",
+            "fields": {
+                "tile_image": {
+                    "en-US": "https://www.se.com/in/en/assets/380/media/152245/320/998-20539004_EcoStruxure4Auto_IC-490x280.jpg"
+                },
+                "description": {
+                    "en-US": "With Innovation At Every Level, we are redefining power and automation for a new world of energy."
+                },
+                "header": {
+                    "en-US": "EcoStruxure™"
+                },
+                "cta_label": {
+                    "en-US": "Learn how  "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/work/campaign/innovation/overview.jsp"
+                }
+            }
+        },
+        {
+            "content_type_id": "Schneider_Electric_Tiles",
+            "entry_id": "tiles-2",
+            "fields": {
+                "header": {
+                    "en-US": "Find a Product"
+                },
+                "description": {
+                    "en-US": "Explore the complete Schneider Electric India product offer for your business"
+                },
+                "tile_image": {
+                    "en-US": "https://www.se.com/in/en/assets/380/media/146438/320/998-20720118_tips_lowvoltage-IC-490x280.jpg"
+                },
+                "cta_label": {
+                    "en-US": "Find your product  "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/all-products"
+                }
+            }
+        },
+        {
+            "content_type_id": "Schneider_Electric_Tiles",
+            "entry_id": "tiles-3",
+            "fields": {
+                "description": {
+                    "en-US": "Buy stylish and efficient electric products online, bringing you new levels of Innovations and Convenience. Explore our e-Shop to know more."
+                },
+                "header": {
+                    "en-US": "Visit our e-Shop"
+                },
+                "cta_label": {
+                    "en-US": "Explore Now opens in new window "
+                },
+                "cta_link": {
+                    "en-US": "https://shop.schneider-electric.co.in/"
+                },
+                "tile_image": {
+                    "en-US": "https://www.se.com/in/en/assets/380/media/148089/320/998-20920107_Ecommerce-IC-490x280.jpg"
+                }
+            }
+        }
+    ]
+}

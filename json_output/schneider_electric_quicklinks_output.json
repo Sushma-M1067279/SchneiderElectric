@@ -1,0 +1,147 @@
+{
+    "Entries": [{
+            "content_type_id": "schneider_electric_quicklinks",
+            "entry_id": "CTA-links-1",
+            "fields": {
+                "cta_field": {
+                    "en-US": "Download Mobile App  "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/work/support/myschneider-app/"
+                }
+            }
+        },
+        {
+            "content_type_id": "schneider_electric_quicklinks",
+            "entry_id": "CTA-links-10",
+            "fields": {
+                "cta_field": {
+                    "en-US": "Find your Training  "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/work/services/training/"
+                }
+            }
+        },
+        {
+            "content_type_id": "schneider_electric_quicklinks",
+            "entry_id": "CTA-links-11",
+            "fields": {
+                "cta_field": {
+                    "en-US": "Explore Careers  "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/about-us/careers/overview.jsp"
+                }
+            }
+        },
+        {
+            "content_type_id": "schneider_electric_quicklinks",
+            "entry_id": "CTA-links-12",
+            "fields": {
+                "cta_field": {
+                    "en-US": "Schneider Electric Offices  "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/locate/38-schneider-electric-india-office-location"
+                }
+            }
+        },
+        {
+            "content_type_id": "schneider_electric_quicklinks",
+            "entry_id": "CTA-links-2",
+            "fields": {
+                "cta_field": {
+                    "en-US": "Documents and Software  "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/download/"
+                }
+            }
+        },
+        {
+            "content_type_id": "schneider_electric_quicklinks",
+            "entry_id": "CTA-links-3",
+            "fields": {
+                "cta_field": {
+                    "en-US": "Product Selector Tool  "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/work/support/product-selector/"
+                }
+            }
+        },
+        {
+            "content_type_id": "schneider_electric_quicklinks",
+            "entry_id": "CTA-links-4",
+            "fields": {
+                "cta_field": {
+                    "en-US": "Find a Distributor  "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/work/support/locator/partner_map.jsp"
+                }
+            }
+        },
+        {
+            "content_type_id": "schneider_electric_quicklinks",
+            "entry_id": "CTA-links-5",
+            "fields": {
+                "cta_field": {
+                    "en-US": "Home Automation  "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/work/products/product-launch/smart-home-automation-wiser/"
+                }
+            }
+        },
+        {
+            "content_type_id": "schneider_electric_quicklinks",
+            "entry_id": "CTA-links-6",
+            "fields": {
+                "cta_field": {
+                    "en-US": "Contact Centre  "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/work/support/contacts.jsp"
+                }
+            }
+        },
+        {
+            "content_type_id": "schneider_electric_quicklinks",
+            "entry_id": "CTA-links-7",
+            "fields": {
+                "cta_field": {
+                    "en-US": "View Price List  "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/work/support/Pricelist.jsp"
+                }
+            }
+        },
+        {
+            "content_type_id": "schneider_electric_quicklinks",
+            "entry_id": "CTA-links-8",
+            "fields": {
+                "cta_field": {
+                    "en-US": "An important message  "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/about-us/press/news/global-2022/update-covid-19.jsp"
+                }
+            }
+        },
+        {
+            "content_type_id": "schneider_electric_quicklinks",
+            "entry_id": "CTA-links-9",
+            "fields": {
+                "cta_field": {
+                    "en-US": "Whitelabelling Offer  "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/about-us/whitelabelling/whitelabelling.jsp"
+                }
+            }
+        }
+    ]
+}

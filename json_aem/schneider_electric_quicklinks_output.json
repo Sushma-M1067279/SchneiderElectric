@@ -1,0 +1,199 @@
+{
+    "Content_Fragment": [{
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricquicklinks",
+                "name": "CTA-links-1",
+                "description": "CTA-links-1",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "Download Mobile App  "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/work/support/myschneider-app/"
+                    }
+                }
+            }
+        },
+        {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricquicklinks",
+                "name": "CTA-links-10",
+                "description": "CTA-links-10",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "Find your Training  "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/work/services/training/"
+                    }
+                }
+            }
+        },
+        {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricquicklinks",
+                "name": "CTA-links-11",
+                "description": "CTA-links-11",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "Explore Careers  "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/about-us/careers/overview.jsp"
+                    }
+                }
+            }
+        },
+        {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricquicklinks",
+                "name": "CTA-links-12",
+                "description": "CTA-links-12",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "Schneider Electric Offices  "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/locate/38-schneider-electric-india-office-location"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricquicklinks",
+                "name": "CTA-links-2",
+                "description": "CTA-links-2",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "Documents and Software  "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/download/"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricquicklinks",
+                "name": "CTA-links-3",
+                "description": "CTA-links-3",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "Product Selector Tool  "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/work/support/product-selector/"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricquicklinks",
+                "name": "CTA-links-4",
+                "description": "CTA-links-4",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "Find a Distributor  "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/work/support/locator/partner_map.jsp"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricquicklinks",
+                "name": "CTA-links-5",
+                "description": "CTA-links-5",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "Home Automation  "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/work/products/product-launch/smart-home-automation-wiser/"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricquicklinks",
+                "name": "CTA-links-6",
+                "description": "CTA-links-6",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "Contact Centre  "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/work/support/contacts.jsp"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricquicklinks",
+                "name": "CTA-links-7",
+                "description": "CTA-links-7",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "View Price List  "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/work/support/Pricelist.jsp"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricquicklinks",
+                "name": "CTA-links-8",
+                "description": "CTA-links-8",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "An important message  "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/about-us/press/news/global-2022/update-covid-19.jsp"
+                    }
+                }
+            }
+        }, {
+            "properties": {
+                "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electricquicklinks",
+                "name": "CTA-links-9",
+                "description": "CTA-links-9",
+                "elements": {
+                    "cta_field": {
+                        "title": "CTA Field",
+                        "value": "Whitelabelling Offer  "
+                    },
+                    "cta_link": {
+                        "title": "CTA Link",
+                        "value": "https://www.se.com/in/en/about-us/whitelabelling/whitelabelling.jsp"
+                    }
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "Content_Fragment": [{
+        "properties": {
+            "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electrictiles",
+            "name": "tiles-1",
+            "description": "tiles-1",
+            "elements": {
+                "tile_image": {
+                    "title": "Tile Image",
+                    "value": "https://www.se.com/in/en/assets/380/media/152245/320/998-20539004_EcoStruxure4Auto_IC-490x280.jpg"
+                },
+                "description": {
+                    "title": "Tile Description",
+                    "value": "With Innovation At Every Level, we are redefining power and automation for a new world of energy."
+                },
+                "header": {
+                    "title": "Tile Header",
+                    "value": "EcoStruxure™"
+                },
+                "cta_label": {
+                    "title": "Tile Label",
+                    "value": "Learn how  "
+                },
+                "cta_link": {
+                    "title": "Tile Link",
+                    "value": "https://www.se.com/in/en/work/campaign/innovation/overview.jsp"
+                }
+            }
+        }
+    }, {
+        "properties": {
+            "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electrictiles",
+            "name": "tiles-2",
+            "description": "tiles-2",
+            "elements": {
+                "header": {
+                    "title": "Tile Header",
+                    "value": "Find a Product"
+                },
+                "description": {
+                    "title": "Tile Description",
+                    "value": "Explore the complete Schneider Electric India product offer for your business"
+                },
+                "tile_image": {
+                    "title": "Tile Image",
+                    "value": "https://www.se.com/in/en/assets/380/media/146438/320/998-20720118_tips_lowvoltage-IC-490x280.jpg"
+                },
+                "cta_label": {
+                    "title": "Tile Label",
+                    "value": "Find your product  "
+                },
+                "cta_link": {
+                    "title": "Tile Link",
+                    "value": "https://www.se.com/in/en/all-products"
+                }
+            }
+        }
+    }, {
+        "properties": {
+            "cq:model": "/conf/Schneider Electric/settings/dam/cfm/models/schneider_electrictiles",
+            "name": "tiles-3",
+            "description": "tiles-3",
+            "elements": {
+                "description": {
+                    "title": "Tile Description",
+                    "value": "Buy stylish and efficient electric products online, bringing you new levels of Innovations and Convenience. Explore our e-Shop to know more."
+                },
+                "header": {
+                    "title": "Tile Header",
+                    "value": "Visit our e-Shop"
+                },
+                "cta_label": {
+                    "title": "Tile Label",
+                    "value": "Explore Now opens in new window "
+                },
+                "cta_link": {
+                    "title": "Tile Link",
+                    "value": "https://shop.schneider-electric.co.in/"
+                },
+                "tile_image": {
+                    "title": "Tile Image",
+                    "value": "https://www.se.com/in/en/assets/380/media/148089/320/998-20920107_Ecommerce-IC-490x280.jpg"
+                }
+            }
+        }
+    }]
+}

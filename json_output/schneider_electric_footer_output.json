@@ -1,0 +1,721 @@
+{
+    "Entries": [{
+            "content_type_id": "schneider_electric_footer",
+            "entry_id": "footer-links-1",
+            "fields": {
+                "cta_field": {
+                    "en-US": "All Products "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/all-products"
+                },
+                "cta_category": {
+                    "en-US": "QUICK LINKS"
+                }
+            }
+        },
+        {
+            "content_type_id": "schneider_electric_footer",
+            "entry_id": "footer-links-10",
+            "fields": {
+                "cta_field": {
+                    "en-US": "Register Your Product "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/work/services/register-your-product/"
+                },
+                "cta_category": {
+                    "en-US": "QUICK LINKS"
+                }
+            }
+        },
+        {
+            "content_type_id": "schneider_electric_footer",
+            "entry_id": "footer-links-11",
+            "fields": {
+                "cta_field": {
+                    "en-US": "Accessibility "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/about-us/accessibility/"
+                },
+                "cta_category": {
+                    "en-US": "ABOUT US"
+                }
+            }
+        },
+        {
+            "content_type_id": "schneider_electric_footer",
+            "entry_id": "footer-links-12",
+            "fields": {
+                "cta_field": {
+                    "en-US": "Data Privacy and Cookie Policy "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/about-us/legal/data-privacy.jsp"
+                },
+                "cta_category": {
+                    "en-US": "ABOUT US"
+                }
+            }
+        }, {
+            "content_type_id": "schneider_electric_footer",
+            "entry_id": "footer-links-13",
+            "fields": {
+                "cta_field": {
+                    "en-US": "Diversity "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/about-us/diversity-and-inclusion/"
+                },
+                "cta_category": {
+                    "en-US": "ABOUT US"
+                }
+            }
+        }, {
+            "content_type_id": "schneider_electric_footer",
+            "entry_id": "footer-links-14",
+            "fields": {
+                "cta_field": {
+                    "en-US": "Company Profile "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/about-us/company-profile/"
+                },
+                "cta_category": {
+                    "en-US": "ABOUT US"
+                }
+            }
+        }, {
+            "content_type_id": "schneider_electric_footer",
+            "entry_id": "footer-links-15",
+            "fields": {
+                "cta_field": {
+                    "en-US": "Careers "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/about-us/careers/overview.jsp"
+                },
+                "cta_category": {
+                    "en-US": "ABOUT US"
+                }
+            }
+        }, {
+            "content_type_id": "schneider_electric_footer",
+            "entry_id": "footer-links-16",
+            "fields": {
+                "cta_field": {
+                    "en-US": "Newsroom "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/about-us/newsroom/"
+                },
+                "cta_category": {
+                    "en-US": "ABOUT US"
+                }
+            }
+        }, {
+            "content_type_id": "schneider_electric_footer",
+            "entry_id": "footer-links-17",
+            "fields": {
+                "cta_field": {
+                    "en-US": "Sustainability "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/about-us/sustainability/"
+                },
+                "cta_category": {
+                    "en-US": "ABOUT US"
+                }
+            }
+        }, {
+            "content_type_id": "schneider_electric_footer",
+            "entry_id": "footer-links-18",
+            "fields": {
+                "cta_category": {
+                    "en-US": "SERVICES"
+                },
+                "cta_field": {
+                    "en-US": "Consulting and Training "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/work/services/consulting-and-training/"
+                }
+            }
+        }, {
+            "content_type_id": "schneider_electric_footer",
+            "entry_id": "footer-links-19",
+            "fields": {
+                "cta_category": {
+                    "en-US": "SERVICES"
+                },
+                "cta_field": {
+                    "en-US": "Digital Services "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/work/services/digital-services/"
+                }
+            }
+        }, {
+            "content_type_id": "schneider_electric_footer",
+            "entry_id": "footer-links-2",
+            "fields": {
+                "cta_field": {
+                    "en-US": "Solutions "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/work/solutions/"
+                },
+                "cta_category": {
+                    "en-US": "QUICK LINKS"
+                }
+            }
+        }, {
+            "content_type_id": "schneider_electric_footer",
+            "entry_id": "footer-links-20",
+            "fields": {
+                "cta_category": {
+                    "en-US": "SERVICES"
+                },
+                "cta_field": {
+                    "en-US": "Field Services "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/work/services/field-services/"
+                }
+            }
+        }, {
+            "content_type_id": "schneider_electric_footer",
+            "entry_id": "footer-links-21",
+            "fields": {
+                "cta_field": {
+                    "en-US": "Industrial Automation Software "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/product-category/5100-industrial-automation-software/?filter=business-1-industrial-automation-and-control"
+                },
+                "cta_category": {
+                    "en-US": "SOFTWARE"
+                }
+            }
+        }, {
+            "content_type_id": "schneider_electric_footer",
+            "entry_id": "footer-links-22",
+            "fields": {
+                "cta_field": {
+                    "en-US": "Energy Management Software "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/product-category/26426075-energy-management-software-solutions/?filter=business-4-low-voltage-products-and-systems"
+                },
+                "cta_category": {
+                    "en-US": "SOFTWARE"
+                }
+            }
+        }, {
+            "content_type_id": "schneider_electric_footer",
+            "entry_id": "footer-links-23",
+            "fields": {
+                "cta_category": {
+                    "en-US": "SOFTWARE"
+                },
+                "cta_field": {
+                    "en-US": "Data Centre Software "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/product-category/88438-data-center-software/?filter=business-3-critical-power-cooling-and-racks"
+                }
+            }
+        }, {
+            "content_type_id": "schneider_electric_footer",
+            "entry_id": "footer-links-24",
+            "fields": {
+                "cta_field": {
+                    "en-US": "Motor Management "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/work/solutions/motor-control-protection/"
+                },
+                "cta_category": {
+                    "en-US": "SOLUTIONS"
+                }
+            }
+        }, {
+            "content_type_id": "schneider_electric_footer",
+            "entry_id": "footer-links-25",
+            "fields": {
+                "cta_field": {
+                    "en-US": "Power and Grid "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/work/solutions/for-business/electric-utilities/"
+                },
+                "cta_category": {
+                    "en-US": "SOLUTIONS"
+                }
+            }
+        }, {
+            "content_type_id": "schneider_electric_footer",
+            "entry_id": "footer-links-26",
+            "fields": {
+                "cta_field": {
+                    "en-US": "Retail "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/work/solutions/for-business/retail/"
+                },
+                "cta_category": {
+                    "en-US": "SOLUTIONS"
+                }
+            }
+        }, {
+            "content_type_id": "schneider_electric_footer",
+            "entry_id": "footer-links-27",
+            "fields": {
+                "cta_field": {
+                    "en-US": "Transportation "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/work/solutions/for-business/transportation/"
+                },
+                "cta_category": {
+                    "en-US": "SOLUTIONS"
+                }
+            }
+        }, {
+            "content_type_id": "schneider_electric_footer",
+            "entry_id": "footer-links-28",
+            "fields": {
+                "cta_field": {
+                    "en-US": "Mining, Minerals and Metals "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/work/solutions/for-business/mining-minerals-metals/"
+                },
+                "cta_category": {
+                    "en-US": "SOLUTIONS"
+                }
+            }
+        }, {
+            "content_type_id": "schneider_electric_footer",
+            "entry_id": "footer-links-29",
+            "fields": {
+                "cta_field": {
+                    "en-US": "Water and Wastewater "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/work/solutions/for-business/water/"
+                },
+                "cta_category": {
+                    "en-US": "SOLUTIONS"
+                }
+            }
+        }, {
+            "content_type_id": "schneider_electric_footer",
+            "entry_id": "footer-links-3",
+            "fields": {
+                "cta_field": {
+                    "en-US": "Software "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/work/solutions/software/"
+                },
+                "cta_category": {
+                    "en-US": "QUICK LINKS"
+                }
+            }
+        }, {
+            "content_type_id": "schneider_electric_footer",
+            "entry_id": "footer-links-30",
+            "fields": {
+                "cta_field": {
+                    "en-US": "Marine "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/work/solutions/for-business/marine/"
+                },
+                "cta_category": {
+                    "en-US": "SOLUTIONS"
+                }
+            }
+        }, {
+            "content_type_id": "schneider_electric_footer",
+            "entry_id": "footer-links-31",
+            "fields": {
+                "cta_field": {
+                    "en-US": "Commercial Real Estate "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/work/solutions/for-business/real-estate/"
+                },
+                "cta_category": {
+                    "en-US": "SOLUTIONS"
+                }
+            }
+        }, {
+            "content_type_id": "schneider_electric_footer",
+            "entry_id": "footer-links-32",
+            "fields": {
+                "cta_field": {
+                    "en-US": "Data Centre and Network Solutions "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/work/solutions/for-business/data-centers-and-networks/"
+                },
+                "cta_category": {
+                    "en-US": "SOLUTIONS"
+                }
+            }
+        }, {
+            "content_type_id": "schneider_electric_footer",
+            "entry_id": "footer-links-33",
+            "fields": {
+                "cta_field": {
+                    "en-US": "Energies and Chemicals "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/work/solutions/for-business/energies-and-chemicals/"
+                },
+                "cta_category": {
+                    "en-US": "SOLUTIONS"
+                }
+            }
+        }, {
+            "content_type_id": "schneider_electric_footer",
+            "entry_id": "footer-links-34",
+            "fields": {
+                "cta_field": {
+                    "en-US": "Food and Beverage "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/work/solutions/for-business/food-and-beverage/"
+                },
+                "cta_category": {
+                    "en-US": "SOLUTIONS"
+                }
+            }
+        }, {
+            "content_type_id": "schneider_electric_footer",
+            "entry_id": "footer-links-35",
+            "fields": {
+                "cta_field": {
+                    "en-US": "Healthcare "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/work/solutions/for-business/healthcare/"
+                },
+                "cta_category": {
+                    "en-US": "SOLUTIONS"
+                }
+            }
+        }, {
+            "content_type_id": "schneider_electric_footer",
+            "entry_id": "footer-links-36",
+            "fields": {
+                "cta_field": {
+                    "en-US": "Hotels "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/work/solutions/for-business/hotels/"
+                },
+                "cta_category": {
+                    "en-US": "SOLUTIONS"
+                }
+            }
+        }, {
+            "content_type_id": "schneider_electric_footer",
+            "entry_id": "footer-links-37",
+            "fields": {
+                "cta_field": {
+                    "en-US": "Life Sciences "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/work/solutions/for-business/life-sciences/"
+                },
+                "cta_category": {
+                    "en-US": "SOLUTIONS"
+                }
+            }
+        }, {
+            "content_type_id": "schneider_electric_footer",
+            "entry_id": "footer-links-38",
+            "fields": {
+                "cta_field": {
+                    "en-US": "Machinery "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/work/solutions/machine-control/"
+                },
+                "cta_category": {
+                    "en-US": "SOLUTIONS"
+                }
+            }
+        }, {
+            "content_type_id": "schneider_electric_footer",
+            "entry_id": "footer-links-39",
+            "fields": {
+                "cta_field": {
+                    "en-US": "Cloud and Service Providers "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/work/solutions/for-business/cloud-and-service-providers/"
+                },
+                "cta_category": {
+                    "en-US": "SOLUTIONS"
+                }
+            }
+        }, {
+            "content_type_id": "schneider_electric_footer",
+            "entry_id": "footer-links-4",
+            "fields": {
+                "cta_field": {
+                    "en-US": "+ LifeCycle Services "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/work/services/"
+                },
+                "cta_category": {
+                    "en-US": "QUICK LINKS"
+                }
+            }
+        }, {
+            "content_type_id": "schneider_electric_footer",
+            "entry_id": "footer-links-40",
+            "fields": {
+                "cta_field": {
+                    "en-US": "Automotive and eMobility "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/work/solutions/for-business/automotive-and-emobility/"
+                },
+                "cta_category": {
+                    "en-US": "SOLUTIONS"
+                }
+            }
+        }, {
+            "content_type_id": "schneider_electric_footer",
+            "entry_id": "footer-links-41",
+            "fields": {
+                "cta_field": {
+                    "en-US": "Need help? Start here "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/work/support/"
+                },
+                "cta_category": {
+                    "en-US": "SUPPORT"
+                }
+            }
+        }, {
+            "content_type_id": "schneider_electric_footer",
+            "entry_id": "footer-links-42",
+            "fields": {
+                "cta_field": {
+                    "en-US": "Product Selector "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/work/support/product-selector/"
+                },
+                "cta_category": {
+                    "en-US": "SUPPORT"
+                }
+            }
+        }, {
+            "content_type_id": "schneider_electric_footer",
+            "entry_id": "footer-links-43",
+            "fields": {
+                "cta_field": {
+                    "en-US": "Product Documentation and Software Downloads "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/download/"
+                },
+                "cta_category": {
+                    "en-US": "SUPPORT"
+                }
+            }
+        }, {
+            "content_type_id": "schneider_electric_footer",
+            "entry_id": "footer-links-44",
+            "fields": {
+                "cta_field": {
+                    "en-US": "Browse FAQ "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/faqs/home/"
+                },
+                "cta_category": {
+                    "en-US": "SUPPORT"
+                }
+            }
+        }, {
+            "content_type_id": "schneider_electric_footer",
+            "entry_id": "footer-links-45",
+            "fields": {
+                "cta_field": {
+                    "en-US": "Green Premium: RoHS, REACH "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/work/support/green-premium/"
+                },
+                "cta_category": {
+                    "en-US": "SUPPORT"
+                }
+            }
+        }, {
+            "content_type_id": "schneider_electric_footer",
+            "entry_id": "footer-links-46",
+            "fields": {
+                "cta_field": {
+                    "en-US": "Contact Centre "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/work/support/contacts.jsp"
+                },
+                "cta_category": {
+                    "en-US": "CONTACT"
+                }
+            }
+        }, {
+            "content_type_id": "schneider_electric_footer",
+            "entry_id": "footer-links-47",
+            "fields": {
+                "cta_field": {
+                    "en-US": "Contact Support "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/work/support/customer-care/contact-schneider-electric.jsp"
+                },
+                "cta_category": {
+                    "en-US": "CONTACT"
+                }
+            }
+        }, {
+            "content_type_id": "schneider_electric_footer",
+            "entry_id": "footer-links-48",
+            "fields": {
+                "cta_field": {
+                    "en-US": "Get a Quote "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/work/support/customer-care/contact-sales.jsp"
+                },
+                "cta_category": {
+                    "en-US": "CONTACT"
+                }
+            }
+        }, {
+            "content_type_id": "schneider_electric_footer",
+            "entry_id": "footer-links-49",
+            "fields": {
+                "cta_field": {
+                    "en-US": "Where to Buy? "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/locate/80-partner-locator-distributors"
+                },
+                "cta_category": {
+                    "en-US": "CONTACT"
+                }
+            }
+        }, {
+            "content_type_id": "schneider_electric_footer",
+            "entry_id": "footer-links-5",
+            "fields": {
+                "cta_field": {
+                    "en-US": "Partners "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/partners/"
+                },
+                "cta_category": {
+                    "en-US": "QUICK LINKS"
+                }
+            }
+        }, {
+            "content_type_id": "schneider_electric_footer",
+            "entry_id": "footer-links-50",
+            "fields": {
+                "cta_field": {
+                    "en-US": "Find Schneider Electric Offices opens in new window "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/ww/en/locate/395-schneider-electric-offices-around-the-world"
+                },
+                "cta_category": {
+                    "en-US": "CONTACT"
+                }
+            }
+        }, {
+            "content_type_id": "schneider_electric_footer",
+            "entry_id": "footer-links-51",
+            "fields": {
+                "cta_field": {
+                    "en-US": "Find a Training Centre opens in new window "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/ww/en/locate/396-find-your-training-center"
+                },
+                "cta_category": {
+                    "en-US": "CONTACT"
+                }
+            }
+        }, {
+            "content_type_id": "schneider_electric_footer",
+            "entry_id": "footer-links-6",
+            "fields": {
+                "cta_field": {
+                    "en-US": "EcoStruxure"
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/work/campaign/innovation/overview.jsp"
+                },
+                "cta_category": {
+                    "en-US": "QUICK LINKS"
+                }
+            }
+        }, {
+            "content_type_id": "schneider_electric_footer",
+            "entry_id": "footer-links-7",
+            "fields": {
+                "cta_field": {
+                    "en-US": "Customer Success Stories "
+                },
+                "cta_link": {
+                    "en-US": "https://www.se.com/in/en/work/campaign/life-is-on/life-is-on.jsp"
+                },
+                "cta_category": {
+                    "en-US": "QUICK LINKS"
+                }
+            }
+        }, {
+            "content_type_id": "schneider_electric_footer",
+            "entry_id": "footer-links-8",
+            "fields": {
+                "cta_field": {
+                    "en-US": "Job Search opens in new window "
+                },
+                "cta_link": {
+                    "en-US": "https://schneiderele.taleo.net/careersection/2/jobsearch.ftl?lang=en&keyword=&CATEGORY=-1&LOCATION=-1"
+                },
+                "cta_category": {
+                    "en-US": "QUICK LINKS"
+                }
+            }
+        }, {
+            "content_type_id": "schneider_electric_footer",
+            "entry_id": "footer-links-9",
+            "fields": {
+                "cta_field": {
+                    "en-US": "Blog opens in new window "
+                },
+                "cta_link": {
+                    "en-US": "https://blog.se.com/"
+                },
+                "cta_category": {
+                    "en-US": "QUICK LINKS"
+                }
+            }
+        }
+    ]
+}
